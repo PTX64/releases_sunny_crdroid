@@ -1,1 +1,1 @@
-Latest releases of crDroid for the Xiaomi Redmi Note 10.
+Latest releases of crDroid for the Xiaomi Redmi Note 10. 
